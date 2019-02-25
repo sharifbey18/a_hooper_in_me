@@ -1,0 +1,25 @@
+{
+  "name": "a_hooper_in_me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharifbey18/a_hooper_in_me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharifbey18/a_hooper_in_me/issues"
+  },
+  "homepage": "https://github.com/sharifbey18/a_hooper_in_me#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
