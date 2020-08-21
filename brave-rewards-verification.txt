@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: a-hooper-n-u.herokuapp.com
+Token: a91c7e283bc0ee2fcdeb3a31f8fee948357c569216ba2f2fa1bf5d35599e394d
